@@ -9,7 +9,3 @@ spec:
   containers:
   - image: supergiantkir/animals:moose
     name: mysql
-#    resources: {}
-#  dnsPolicy: ClusterFirst
-#  restartPolicy: Always
-#status: {}

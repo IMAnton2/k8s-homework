@@ -17,9 +17,5 @@ spec:
             - redis
         topologyKey: "kubernetes.io/hostname"
   containers:
-  - image: supergiantkir/animals:moose
+  - image: supergiantkir/animals:hare
     name: redis
-#    resources: {}
-#  dnsPolicy: ClusterFirst
-#  restartPolicy: Always
-#status: {}

@@ -17,9 +17,5 @@ spec:
             - mysql
         topologyKey: "kubernetes.io/hostname"
   containers:
-  - image: supergiantkir/animals:moose
+  - image: supergiantkir/animals:bear
     name: mysql
-#    resources: {}
-#  dnsPolicy: ClusterFirst
-#  restartPolicy: Always
-#status: {}
